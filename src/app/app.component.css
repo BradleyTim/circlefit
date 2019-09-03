@@ -1,0 +1,15 @@
+header {
+  min-width: 100%;
+  border-bottom: 2px solid #ccc;
+  padding: 1rem 0;
+}
+
+header h3.brand {
+  width: 80%;
+  display: block;
+  margin: auto;
+
+  font-size: 1.5rem;
+  font-weight: 100;
+  letter-spacing: 2px;
+}
